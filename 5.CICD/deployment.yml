@@ -1,8 +1,8 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: studentx-deployment
-  namespace: studentx
+  name: student4-deployment
+  namespace: student4
 spec:
   selector:
     matchLabels:
