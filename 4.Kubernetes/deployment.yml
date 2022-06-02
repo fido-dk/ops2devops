@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: student4
-        image: registry.tanzu.dk/ops2devops/student4:v1
+        image: registry.tanzu.dk/ops2devops/student4:v2
